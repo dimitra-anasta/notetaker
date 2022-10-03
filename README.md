@@ -18,7 +18,6 @@ This is a great use for anyone to store notes. The site lets the user keep the n
 
 w3 schools
 
-bootstrap
 
 ## License 
 
