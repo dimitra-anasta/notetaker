@@ -1,6 +1,6 @@
 # Note Taker
 
-![img](develop/assets/Screen%20Shot%202022-10-03%20at%207.29.11%20PM.png)
+![img](/assets/Screen%20Shot%202022-10-03%20at%207.29.11%20PM.png)
 
 ## Description
 
